@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-kit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "everything you need to build a Storybook addon",
   "keywords": [
     "storybook-addons",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/storybookjs/storybook-addon-kit"
   },
-  "author": "winkerVSbecks",
+  "author": "Dennis Siqueira <dennissiqueira@icloud.com>",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
